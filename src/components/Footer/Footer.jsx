@@ -22,7 +22,7 @@ const Footer = () => {
           TRUETONE HEARING
           </h1>
           <p className="text-sm max-w-[300px]">
-          Welcome to Truetone Hearing, the UK's premier provider of advanced hearing aids. Our expert team delivers personalized care and top-notch service to enhance your hearing experience. Combining cutting-edge technology with tailored solutions, we aim to significantly improve your quality of life. Discover our range of high-quality products and services today.
+          Welcome to Truetone Hearing, the United Kindoms premier provider of advanced hearing aids. Our expert team delivers personalized care and top-notch service to enhance your hearing experience. Combining cutting-edge technology with tailored solutions, we aim to significantly improve your quality of life. Discover our range of high-quality products and services today.
           </p>
           <div>
             <p className="flex items-center gap-2">
