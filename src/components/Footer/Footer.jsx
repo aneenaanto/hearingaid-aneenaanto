@@ -56,14 +56,6 @@ const Footer = () => {
           <li>Privacy Policy</li>
           </ul>
         </div>
-        <div>
-          <ul className="space-y-2">
-          <li>Home</li>
-          <li>About</li>
-          <li>Contact Us</li>
-          <li>Privacy Policy</li>
-          </ul>
-        </div>
       </div>
       </motion.div>
       {/* ______ social links section _____ */}
